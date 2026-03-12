@@ -11,11 +11,11 @@ Henry operates a four-agent loop through OpenClaw and Feishu:
 
 ## Product Tracks
 
-- `Agora`
+- `Agora` - AI Agent Platform
   First shipping MVP. AI Agent marketplace and operator workspace.
-- `Physis`
+- `Physis` - Physical AI Framework
   Simulator-first Physical AI framework.
-- `Titan`
+- `Titan` - Embodied Intelligence Research
   Long-horizon embodied intelligence research track with strict safety framing.
 
 ## Execution Logic

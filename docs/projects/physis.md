@@ -1,4 +1,4 @@
-# Physis
+# Physis - Physical AI Framework
 
 ## Position
 

@@ -1,4 +1,4 @@
-# Titan
+# Titan - Embodied Intelligence Research
 
 ## Position
 

@@ -1,4 +1,4 @@
-# Agora
+# Agora - AI Agent Platform
 
 ## Position
 
