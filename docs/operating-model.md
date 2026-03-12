@@ -6,6 +6,7 @@
 - Durable context lives in workspace files and GitHub artifacts.
 - Agents do not share private memory across workspaces.
 - Cross-agent collaboration happens through documents, issues, pull requests, and review notes.
+- Open-source ambition does not override upstream license, patent, notice, or provenance obligations.
 
 ## Decision Flow
 
@@ -20,3 +21,10 @@
 - `Agora` should ship first and learn fast.
 - `Physis` should stay simulator-first until scope and interfaces stabilize.
 - `Titan` should remain research-led until stronger safety and systems maturity exist.
+
+## Legal And Provenance Discipline
+
+- No copying from unlicensed repositories or websites.
+- Preserve original license and notice obligations for reused material.
+- Record provenance before importing code, datasets, docs, or assets.
+- Escalate unclear or copyleft-heavy materials before incorporation.
