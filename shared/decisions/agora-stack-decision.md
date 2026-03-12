@@ -6,7 +6,7 @@ For `Agora` phase 1, use a **TypeScript-first monorepo** with:
 
 - `pnpm workspaces` for package management
 - `Turborepo` for task orchestration and caching
-- `Next.js 15 App Router` for the web application
+- `Next.js 16 App Router` for the web application
 - `Fastify + TypeScript` for the API service
 - `PostgreSQL` as the system of record
 - `Prisma ORM` for database access and schema management
@@ -59,7 +59,7 @@ Reason:
 
 ### Web
 
-- framework: `Next.js 15 App Router`
+- framework: `Next.js 16 App Router`
 - language: `TypeScript`
 
 Reason:
@@ -137,8 +137,8 @@ Premature queue or cache complexity is more likely to slow us down than help us.
 
 - Next.js App Router docs  
   https://nextjs.org/docs/app
-- Next.js 15 release notes  
-  https://nextjs.org/blog/next-15
+- Next.js 16 release notes  
+  https://nextjs.org/blog/next-16
 - Fastify TypeScript docs  
   https://fastify.dev/docs/latest/Reference/TypeScript/
 - Prisma PostgreSQL docs  
@@ -158,4 +158,4 @@ For phase 1, the best stack is the one that lets us ship a clear, inspectable, p
 
 That stack is:
 
-**Next.js 15 + Fastify + PostgreSQL + Prisma in a pnpm/Turborepo monorepo.**
+**Next.js 16 + Fastify + PostgreSQL + Prisma in a pnpm/Turborepo monorepo.**
