@@ -21,6 +21,9 @@
 - `Agora` should ship first and learn fast.
 - `Physis` should stay simulator-first until scope and interfaces stabilize.
 - `Titan` should remain research-led until stronger safety and systems maturity exist.
+- `Noesis` should stay governance-aware and evidence-disciplined until its first operational wedge is clear.
+- `Peras` should stay theorem- and argument-led until a practical product surface emerges from the theory.
+- `Stoicheia` should stay systems- and macro-model-led until its first usable decision-support interface is defined.
 
 ## Legal And Provenance Discipline
 

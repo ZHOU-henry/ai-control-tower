@@ -6,7 +6,13 @@ Cross-project operating repo for Henry's four-agent OpenClaw system.
 
 - hold the portfolio-level roadmap
 - define how Athena, Hermes, Hephaestus, and Themis collaborate
-- track the three MVP tracks: `Agora`, `Physis`, and `Titan`
+- track the six long-horizon product and research tracks:
+  - `Agora`
+  - `Physis`
+  - `Titan`
+  - `Noesis`
+  - `Peras`
+  - `Stoicheia`
 - keep decisions and operating rules in one durable place
 
 ## Current Priority Order
@@ -14,6 +20,9 @@ Cross-project operating repo for Henry's four-agent OpenClaw system.
 1. `Agora`
 2. `Physis`
 3. `Titan`
+4. `Noesis`
+5. `Peras`
+6. `Stoicheia`
 
 ## Repository Layout
 
@@ -22,6 +31,9 @@ Cross-project operating repo for Henry's four-agent OpenClaw system.
 - `docs/projects/agora.md`
 - `docs/projects/physis.md`
 - `docs/projects/titan.md`
+- `docs/projects/noesis.md`
+- `docs/projects/peras.md`
+- `docs/projects/stoicheia.md`
 - `docs/workflows/agent-loop.md`
 
 ## Initial Goal
