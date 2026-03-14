@@ -20,9 +20,9 @@ These are meant to be read by all agents.
 
 Use the local non-repo intake area for raw downloads and uncertain external material:
 
-- `/Users/henry/projects/_intake/raw/`
-- `/Users/henry/projects/_intake/license-reviews/`
-- `/Users/henry/projects/_intake/staging/`
+- `/home/henry/projects/_intake/raw/`
+- `/home/henry/projects/_intake/license-reviews/`
+- `/home/henry/projects/_intake/staging/`
 
 This layer is not "memory." It is a quarantine and intake zone.
 

@@ -68,3 +68,17 @@ Agora should be built first as an **operator-grade AI Agent platform**.
 If that works, marketplace mechanics can be layered later.
 
 If we try to build the marketplace first, we risk building a shell with no trustworthy core.
+
+## Supply-Side Rule
+
+The initial supply can come from Henry's own agents or other first-party seeded agents.
+
+But the architecture should preserve the real platform direction:
+
+- users or customers express demand
+- multiple AI agent developers can respond by building and listing specialized agents
+- Agora should not quietly collapse into a single-provider showcase
+
+## Expansion Rule
+
+Phase 1 should stay narrow in product scope, but the domain model and package boundaries should be designed so later expansion does not require breaking the whole system apart.
