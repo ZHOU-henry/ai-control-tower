@@ -10,6 +10,14 @@ Bring embodied world models, simulator-first physical AI, and safe agency under
 one umbrella so the stack reads as one serious program instead of two isolated
 MVPs.
 
+## Repository Host
+
+For consolidation, `Kinema` is now hosted in the original `titan` repository,
+with:
+
+- `subprojects/titan/`
+- `subprojects/physis/`
+
 ## Subprojects
 
 - `Titan`

@@ -9,6 +9,15 @@ First umbrella program, market and intelligence layer.
 Combine the transaction layer, the institutional observatory, and the frontier
 signal engine into one intelligence-economy program.
 
+## Repository Host
+
+For consolidation, `Polis` is now hosted in the original `agora` repository,
+with:
+
+- `subprojects/agora/`
+- `subprojects/noesis/`
+- `subprojects/peras/`
+
 ## Subprojects
 
 - `Agora`
