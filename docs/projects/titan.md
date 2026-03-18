@@ -2,11 +2,12 @@
 
 ## Position
 
-Third priority, research incubation.
+Kinema subproject, research incubation lane.
 
 ## Product Thesis
 
-Develop a serious long-horizon embodied intelligence program without pretending the hardest parts are already solved.
+Develop Kinema's long-horizon embodied intelligence and safe-agency line
+without pretending the hardest parts are already solved.
 
 ## First Milestones
 

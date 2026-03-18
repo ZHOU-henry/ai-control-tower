@@ -2,11 +2,12 @@
 
 ## Position
 
-Second priority, simulator-first.
+Kinema subproject, simulator-first engineering lane.
 
 ## Product Thesis
 
-Build an open framework that bridges research and engineering for Physical AI workflows without overcommitting to hardware too early.
+Build Kinema's simulator-first framework layer for Physical AI without
+overcommitting to hardware too early.
 
 ## First Milestones
 

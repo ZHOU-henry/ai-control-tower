@@ -2,11 +2,12 @@
 
 ## Position
 
-First real MVP and first shipping priority.
+Polis subproject, first shipping priority.
 
 ## Product Thesis
 
-Build a lightweight platform that connects AI Agent supply with real business demand, while keeping execution auditable.
+Build Polis's market and delivery layer by connecting AI agent supply with real
+business demand while keeping execution auditable.
 
 ## First Milestones
 

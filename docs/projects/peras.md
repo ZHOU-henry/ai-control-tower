@@ -1,12 +1,13 @@
-# Peras - Computability Boundary Atlas
+# Peras - AI Frontier Signal Engine
 
 ## Position
 
-Fifth priority, theory-to-product incubation.
+Polis subproject, theory-to-product signal lane.
 
 ## Product Thesis
 
-Build an open framework that maps the computational limits of digital and AI systems and translates those limits into a clearer theory of durable human value and non-substitutable human capability.
+Build Polis's frontier signal and judgment layer by mapping where AI value is
+actually compounding and translating that into clearer strategic direction.
 
 ## First Milestones
 

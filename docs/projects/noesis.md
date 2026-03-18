@@ -1,12 +1,14 @@
-# Noesis - Artificial Consciousness Observatory
+# Noesis - AGI Symbiosis Observatory
 
 ## Position
 
-Fourth priority, long-horizon incubation.
+Polis subproject, long-horizon observatory lane.
 
 ## Product Thesis
 
-Build an open framework for anticipating, observing, supervising, and productively shaping AI systems under the non-zero possibility that future models exhibit stronger autonomous-awareness-like properties.
+Build Polis's observatory layer for anticipating, observing, supervising, and
+productively shaping AI systems under the non-zero possibility that future
+models exhibit stronger autonomous-awareness-like properties.
 
 ## First Milestones
 

@@ -1,5 +1,12 @@
 # Stoicheia - Six-Factor AI Economy Map
 
+## Status
+
+Archived as a historical planning document.
+
+This line has been folded into `Noesis` as the AI-economy substrate program and
+is now publicly carried under the `Polis` umbrella.
+
 ## Position
 
 Sixth priority, macro-systems incubation.
